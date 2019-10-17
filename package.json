@@ -4,7 +4,7 @@
   "description": "1st package made on 17.10.19",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "author": "darthvader",
   "license": "ISC",

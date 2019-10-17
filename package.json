@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "darthvader",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tareq-almasri/package.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tareq-almasri/package/issues"
+  },
+  "homepage": "https://github.com/tareq-almasri/package#readme"
 }
